@@ -1,1 +1,1 @@
-# sonalianalyst_portfolio.github.io
+# sonali_portfolio.github.io
